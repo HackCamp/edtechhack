@@ -49,7 +49,7 @@ ICT CONNECT21　御中
 
 【住所】 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-※成果物、アイデアの違いや権利の取り決めの考え方については、本イベントのFAQ（https://github.com/HackCamp/cosugithon-agreement/blob/master/FAQ.md ）も合わせてご確認ください。
+※成果物、アイデアの違いや権利の取り決めの考え方については、本イベントの[FAQ](https://github.com/HackCamp/edtechhack/blob/master/FAQ.md）も合わせてご確認ください。
 
 
 
