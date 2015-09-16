@@ -1,4 +1,4 @@
-# edtechhack
+#先生発！ハッカソン
 2015年10月10、11日に、「先生発！ハッカソン」というイベントを開催いたします。
 
 [Doorkeeper参加申し込みページ](https://hackcamp.doorkeeper.jp/events/31456)
